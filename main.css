@@ -1,0 +1,66 @@
+
+.parent5 {
+
+    background-color: #F1F0FF;
+    height: 520px;
+
+}
+
+.parent5 .container .child1_parent5 img {
+
+    height: 520px;
+    width: 520px;
+
+}
+
+
+.parent5 .container .child2_parent5 p {
+
+    display: inline;
+
+}
+
+.parent5 .container .child2_parent5 .maintopic {
+
+    color: #151875;
+    font-size: 35px;
+
+}
+
+.parent5 .container .child2_parent5 p {
+
+    color: #ACABC3;
+    font-size: 16px;
+
+}
+
+.parent5 .container .child2_parent5 .txt p {
+
+    display: block;
+    color: #151875;
+    font-size: 14px;
+
+}
+
+.parent5 .container .child2_parent5 button {
+
+    background-color: #FB2E86;
+    color: white;
+    font-size: 17px;
+    padding: 14px 24px;
+    border-color: #FB2E86;
+    border-style: none;
+
+}
+
+.parent5 .container .child2_parent5   {
+
+width:max-content;
+height: 300px;
+ 
+margin-left: -80px;
+
+}
+
+
+
